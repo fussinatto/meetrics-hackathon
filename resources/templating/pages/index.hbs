@@ -1,0 +1,31 @@
+---
+title: Bikelog
+menuLink: Home
+sortOrder: 01
+bodyclass: is-page-loading
+---
+
+{{#extend "lyt-default"}}
+	{{#content "body"}}
+	
+	<header class="b-header">
+		<div class="header-left">
+			<span class="header__logo-txt-wrapper">
+				Browser Periodic Table
+			</span>
+		</div>
+	</header>
+
+
+	<main class="content">
+		<div class="b-hometable">
+			{{> b-table hometable}}
+		</div>
+	</main>
+
+	<footer class="b-footer">
+		<div class="footer_copyright">&copy; 2016 Girl Power &amp; the Dude. All right reserved</div>
+	</footer>
+	
+{{/content}}
+{{/extend}}

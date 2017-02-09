@@ -1,0 +1,160 @@
+{
+	"longexp":{
+		"slides":[
+		{
+				"type":"text",
+				"headline":"Long Exposures",
+				"content":"<p>Take a dSLR camera of your choice, stick it on a tripod, slap a ND filter (I suggest min 10 stops), open a shutter for a few minutes and presto... You have yourself a long-exposure photo.<p>"
+			},
+			
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp0"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp00"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp4"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp5"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp3"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp2"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp1"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/longexp6"
+			}
+		]
+	},
+	"havana":{
+		"slides":[
+			{
+				"type":"text",
+				"headline":"Cuban Tour",
+				"content":"<p>Reasons to visit Cuba: you need a break from internet, you need more Sun, your best friend is getting married in Havana? All good. Pack the suitcases, sublet your flat and go. From Havana to Tinidad, From Trinidad to Varadero, from Varadero to Baracoa Cuba showed to be challenging in a beautiful and bumpy way.  <p>"
+			},
+
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba1"
+			},
+
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba2"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba3"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba4"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba5"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba6"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba7"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/cuba8"
+			}
+		]
+	},
+	"croatia":{
+		"slides":[
+			{
+				"type":"text",
+				"headline":"Adriatic Sea, Croatia",
+				"content":"<p>Only few things in life can guarantee a great fun. Getting in a car and riding to the coast is for sure on top of the list. Gliding in a Sunny afternoon, listening to the radio and eating freshly picked figs makes the perfect life. Just where I wanna be.<p>"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/more2"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/more1"
+			},
+			{
+				"type":"video",
+				"video-src-mp4":"media/articles/more.mp4"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/more3"
+			},
+
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/more4"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/more5"
+			}
+		]
+	},
+	
+	"bike":{
+		"slides":[
+			{
+				"type":"text",
+				"headline":"Mental blank",
+				"content":"<p>I have a theory that every person has a certain speed of movement, a frequency of image that changes in eyes by which the mind is almost completely blank. Brain is free from thoughts and is solely concentrated on processing those moving images that you see. For some people that frequency is achieved during walking, other by traveling by train, and I find my own mental-free velocity white riding the road bike. Solitude and pleasant scenery makes some special feeling inside. I won’t try to explain that feeling, you should find out for yourself.<p>"
+			},
+			
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/bike1-2"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/bike1-3"
+			},
+			{
+				"type":"video",
+				"video-src-mp4":"media/articles/bike-tour1.mp4"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/bike1-4"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/bike1-5"
+			},
+			{
+				"type":"video",
+				"video-src-mp4":"media/articles/bikewash.mp4"
+			},
+			{
+				"type":"image",
+				"image-src":"img/resized/articles/bike1-6"
+			}
+		]
+	}
+}

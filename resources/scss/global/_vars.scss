@@ -1,0 +1,91 @@
+
+// Homepage
+$c-black: #000;
+$c-white: #fff;
+
+$c-dark: #07141F;
+$c-light: #f9f9f9;
+
+// Info
+$c-info-bg: rgba(18,28,38, 1);
+$c-info-text: #f8f3f3;
+
+// Menu
+$c-menu-bg: rgba(18,28,38, 1);
+$c-menu-text: #f8f3f3;
+$c-menu-text-light: #cdcdcd;
+
+
+//Article
+
+// Dark theme:
+// $c-pagination-color: rgba(255, 255, 255, 0.8);
+// $color-article-bg: rgb(17, 41, 66);
+// $color-article-text: #fff;
+
+// Light theme:
+$c-pagination-color: rgb(17, 41, 66);
+$color-body-bg: #fff;
+$color-article-bg: #fff;
+$color-article-text: rgb(17, 41, 66);
+
+$c-ie: #1fbbee;
+$c-ch: #49a84b;
+$c-ff: #ec8840;
+$c-op: #e52a30;
+$c-sf: #2285d5;
+
+
+// Typography
+$header-1: 2.6rem;
+$header-2: 2.25rem;
+$header-3: 2rem;
+$header-4: 1.6rem;
+$header-5: 1.25rem;
+$header-6: 1rem; //16px
+$small-1: 0.875rem; //14px
+$small-2: 0.75rem; // 12px
+$small-3: 0.625rem; // 10px
+
+
+
+
+$font-base: 'Montserrat', Arial, sans-serif;
+$font-text: 'Playfair Display', serif;	
+
+// ANimation
+$anim-duration: .35s;
+
+
+//
+// Breakpoint Variables
+//
+// Theses variables will be used by mixins/_respond-to.scss.
+//
+// The viewport-ranges must be mutually exclusive!
+//
+// <--- phone --- | --- pad --- | --- desktop --->
+//
+// That means in the example above you shouldn't use e.g.
+// min-width: 720px because it would interfere the ranges
+// of the breakpoints pad and desktop and so would result
+// in a bad maintainability.
+//
+
+// fallback settings: if not set, respond-to won't render a fallback
+$respond-to-no-mediaqueries-fallback: desktop;
+$respond-to-fallback-class: lt-ie9;
+
+$break-desktop: 1024px;
+$break-pad-max: 1023px;
+$break-pad-min: 768px;
+$break-phone-max: 767px;
+$break-phone-min: 320px;
+$break-phone-tiny: 319px;
+
+$respond-to-breakpoints: (
+	desktop "(min-width:"+$break-desktop+")",
+	tablet "(min-width:"+$break-pad-min+") and (max-width:"+$break-pad-max+")",
+	phone "(min-width:"+$break-phone-min+") and (max-width:"+$break-phone-max+")",
+	tiny "(max-width:"+$break-phone-tiny+")"
+);

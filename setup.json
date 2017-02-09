@@ -1,0 +1,33 @@
+{
+  "generator-veams": {
+    "projectName": "bikelog 2",
+    "projectAuthor": "Dario",
+    "taskRunner": [
+      "grunt"
+    ],
+    "templateEngine": "assemble",
+    "installExtendedLayout": true,
+    "installPlugin": false,
+    "gulpModules": [],
+    "gruntModules": [
+      "grunt-autoprefixer",
+      "grunt-browserify",
+      "grunt-combine-mq",
+      "grunt-contrib-handlebars",
+      "grunt-dr-svg-sprites",
+      "grunt-grunticon",
+      "grunt-svgmin"
+    ],
+    "features": [
+      "createDevFolder"
+    ],
+    "jsLibs": [
+      "jquery"
+    ],
+    "cssLibs": [],
+    "testAndQA": false,
+    "testAndQALibs": [],
+    "veamsPackages": [],
+    "docs": []
+  }
+}

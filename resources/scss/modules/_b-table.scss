@@ -1,0 +1,79 @@
+$oboveElementHeight: 60px;
+
+$width: 100px;
+$height: 100px;
+
+.b-table {
+	position: absolute;
+
+	.el-link {
+		display: inline-block;
+		position: relative;
+		transition-duration: 0.35s;
+		transition-property: opacity, visibility;
+
+		&.before-render {
+			opacity: 0;
+			visibility: hidden;
+		}
+	}
+
+	.element-wrapper {
+		position: relative;
+		width: $width - 2px;
+		height: $height - 2px;
+		border: 1px solid black;
+		margin: 2px;
+		padding: 2px;
+		display: flex;
+		align-content: center;
+		color: $c-white;
+		padding: 10px;
+		box-sizing: border-box;
+		border-radius: 10px;
+
+		&.is-internet-explorer{
+			background-color: $c-ie;
+			border-color: $c-ie;
+		}
+		&.is-chrome{
+			background-color: $c-ch;
+			border-color: $c-ch;
+		}
+		&.is-firefox{
+			background-color: $c-ff;
+			border-color: $c-ff;
+		}
+		&.is-op{
+			background-color: $c-op;
+			border-color: $c-op;
+		}
+		&.safari{
+			background-color: $c-sf;
+			border-color: $c-sf;
+		}
+
+	}
+
+	.el-name {
+		text-transform: uppercase;
+		position: absolute;
+		bottom: 10px;
+		font-size: $small-1;
+	}
+
+	.el-version {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		font-size: $small-2;
+
+		&.is-small {
+			font-size: $header-6;
+		}
+	}
+
+	.el-link {
+		color: inherit;
+	}
+}

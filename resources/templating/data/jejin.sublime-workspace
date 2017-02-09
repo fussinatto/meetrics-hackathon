@@ -1,0 +1,1744 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"trns",
+				"transition-duration"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"init",
+				"initSharedFn"
+			],
+			[
+				"col",
+				"column-count"
+			],
+			[
+				"text",
+				"textcolor"
+			],
+			[
+				"proj-",
+				"proj-name"
+			],
+			[
+				"proje",
+				"project-list"
+			],
+			[
+				"te",
+				"textcolor-dim"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"secti",
+				"section-bg__content"
+			],
+			[
+				"article",
+				"articleDOM"
+			],
+			[
+				"is-",
+				"is-menu-visible"
+			],
+			[
+				"trnasition-",
+				"transition-duration"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"trnas",
+				"transition-timing-function"
+			],
+			[
+				"transi",
+				"transition-delay"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"c-",
+				"color-bg-blue-01"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"aling-",
+				"align-items"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"menu__so",
+				"menu__social-list"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"tetx-",
+				"text-transform"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"active",
+				"activeBG"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"bg",
+				"boxBackgrounds"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"dist",
+				"dist_list"
+			],
+			[
+				"rotation",
+				"rotation_list"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"transo",
+				"transition"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"text-col",
+				"text-color-main"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"bg-",
+				"bg-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"IS",
+				"IS_SMALL_SCREEN"
+			],
+			[
+				"IS_",
+				"IS_TOUCH"
+			],
+			[
+				"natural",
+				"naturalHeight"
+			],
+			[
+				"laz",
+				"lazyLoadImage"
+			],
+			[
+				"anim",
+				"anim-bar"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"slider",
+				"slider-btn-bg-color"
+			],
+			[
+				"btn",
+				"btn-line-color"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"btn-",
+				"btn-next"
+			],
+			[
+				"main",
+				"mainPage"
+			],
+			[
+				"Inde",
+				"IndexPage"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"el",
+				"el"
+			],
+			[
+				"ANI",
+				"ANIM_TIME"
+			],
+			[
+				"force",
+				"forceResize"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"to",
+				"toArray	.toArray()"
+			],
+			[
+				"anima",
+				"_animateTitles"
+			],
+			[
+				"co",
+				"co	co"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"project",
+				"projectArray"
+			],
+			[
+				"Proje",
+				"ProjectPage"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"curr",
+				"currSlide"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/footer.hbs",
+			"settings":
+			{
+				"buffer_size": 1210,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 14760,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/layouts/default.hbs",
+			"settings":
+			{
+				"buffer_size": 1786,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html class=\"no-js\">\n\n<head>\n	<meta charset=\"utf-8\">\n	<title>proba webapp</title>\n	<meta name=\"description\" content=\"\">\n	<meta name=\"viewport\" content=\"width=device-width\">\n	<link rel=\"shortcut icon\" href=\"/favicon.ico\" type=\"image/x-icon\">\n	<link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\">\n	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n	<!-- build:css(.) styles/vendor.css -->\n	<!-- bower:css -->\n	<!-- endbower -->\n	<!-- endbuild -->\n	<!-- build:css(.tmp) styles/main.css -->\n	<link rel=\"stylesheet\" href=\"styles/reset.css\">\n	<link rel=\"stylesheet\" href=\"styles/main.css\">\n	<!-- endbuild -->\n	<!-- build:js scripts/vendor/modernizr.js -->\n	<script src=\"bower_components/modernizr/modernizr.js\"></script>\n	<!-- endbuild -->\n\n</head>\n\n\n	{{>header}}\n\n	<section class=\"wrapper\">\n		{{body}}\n	</section>\n\n	{{#if showfooter}}\n		{{>footer}}\n	{{/if}}\n\n\n\n\n	<!-- build:js(.) scripts/vendor.js -->\n	<!-- bower:js -->\n	<script src=\"bower_components/jquery/dist/jquery.js\"></script>\n	<!-- endbower -->\n	<!-- endbuild -->\n\n	<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. \n	<script>\n	(function(b, o, i, l, e, r) {\n		b.GoogleAnalyticsObject = l;\n		b[l] || (b[l] =\n			function() {\n				(b[l].q = b[l].q || []).push(arguments)\n			});\n		b[l].l = +new Date;\n		e = o.createElement(i);\n		r = o.getElementsByTagName(i)[0];\n		e.src = '//www.google-analytics.com/analytics.js';\n		r.parentNode.insertBefore(e, r)\n	}(window, document, 'script', 'ga'));\n	ga('create', 'UA-XXXXX-X');\n	ga('send', 'pageview');\n	</script>-->\n\n	<!-- build:js({app,.tmp}) scripts/main.js -->\n	<script src=\"scripts/main.js\"></script>\n	<!-- endbuild -->\n</body>\n\n</html>\n\n",
+			"settings":
+			{
+				"buffer_size": 1690,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1253,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_project-page.scss",
+			"settings":
+			{
+				"buffer_size": 2616,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_header.scss",
+			"settings":
+			{
+				"buffer_size": 1488,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// Reset end\n$bgc: #fff;\n$footerbgc: #fafafa;\n$homeListBorder:#ddd;\n$textcolor: #343434;\n$textcolor-dim: #c9c9c9;\n$footertext: #676767;\n$menuarrow:#343434;\n\n// Breakpoints\n$phone: 768px;\n$tablet: 1024px;\n$desktop: \n\n@mixin intro-anim($top:-5px, $duration: 0.35s) {\n	transition-property: opacity, transform;\n	transition-duration: $duration;\n	opacity: 1;\n	transform: translateY(0);\n\n	body.play-page-outro &,\n	body:not(.is-page-loaded) & {\n		opacity: 0;\n		transform: translateY($top);\n	}\n}\n\n@mixin intro-anim-x($left:-5px, $duration: 0.35s) {\n	transition-property: opacity, transform;\n	transition-duration: 0.35s;\n	opacity: 1;\n	transform: translateX(0);\n\n	body.play-page-outro &,\n	body:not(.is-page-loaded) & {\n		opacity: 0;\n		transform: translateX($left);\n	}\n}",
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_vars.scss",
+			"file_size": 732,
+			"file_write_time": 131211060469879561,
+			"settings":
+			{
+				"buffer_size": 758,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin2016/resources/templating/data/config.json",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/singleproject.hbs",
+			"settings":
+			{
+				"buffer_size": 640,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_home.scss",
+			"settings":
+			{
+				"buffer_size": 2076,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 161.0,
+		"last_filter": "insal",
+		"selected_items":
+		[
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/WebDev/bitbucket/jejin-novi-sajt",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/data",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/scripts",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/pages",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials"
+	],
+	"file_history":
+	[
+		"/D/WebDev/bitbucket/jejin2016/resources/js/app.js",
+		"/D/WebDev/bitbucket/jejin2016/resources/js/main.js",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/bower.json",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/dist/index.html",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/dist/scripts/vendor/modernizr.js",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/.tmp/styles/main.css",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_news.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/pages/archive.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_header.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/pages/news.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_project-page.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_fancybox.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/layouts/default.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/WP-THEME/jejin/scripts/jquery.fancybox.pack.js",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/scripts/main.js",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_base.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_bio.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/data/data-projects.json",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/pages/canawoman.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_footer.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/scripts/jquery.fancybox.js",
+		"/C/Users/world/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/projectslist-side.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_vars.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/data/data-news.json",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_home.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/Gruntfile.js",
+		"/C/Users/world/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/world/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/world/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/header.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/footer.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/.sass-cache/1f391fa1220216f946b0df1c4100943803c6577c/footer.scssc",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/singleproject.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/main.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/news-single.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_reset.scss",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/scripts/smoothscroll.js",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/pages/index.hbs",
+		"/D/WebDev/bitbucket/jejin-novi-sajt/bower_components/modernizr/modernizr.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/modules/Menu.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_b-boxes-animated.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_preloader.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/index.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_header.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_b-boxes-static.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/utils/extends/_boxcolors.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/data/articles.json",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/data/config.json",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/data/menu.json",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/data/tours.json",
+		"/D/WebDev/_side_projects/bikelog 2/_dist/css/styles.css",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/main.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_menu.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/utils/preloader.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_b-article.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/modules/ArticleSlider.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_homeslider.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/data/Hrvatska.txt",
+		"/D/WebDev/_side_projects/bikelog 2/Gruntfile.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/layouts/lyt-article.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-homeslide.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-article.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/global/_vars.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/utils/mixins/_boxcolors.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/classes/helpers.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/article.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_footer.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-menu.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-boxes-static.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/article-havana.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/vendor/polyfills.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/article-longexp.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/helpers/_grunt/responsive_images.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/modules/HomeSlider.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/assets/img/pictures.json",
+		"/D/WebDev/_side_projects/bikelog 2/README.md",
+		"/D/WebDev/_side_projects/bikelog 2/setup.json",
+		"/D/WebDev/_side_projects/bikelog 2/contributors.txtgit",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/global/_base.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/classes/BoxStatic.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/article-croatia.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/article-bike.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/package.json",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_info.scss",
+		"/D/WebDev/_side_projects/bikelog 2/helpers/_grunt/imageSizeExport.js",
+		"/D/WebDev/_side_projects/bikelog 2/Untitled-1.ai",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/_plyr.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/classes/BoxAnim.js",
+		"/D/WebDev/_side_projects/bikelog 2/_output/article-germany.html",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/classes/UnjumbleTxt.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/modules/HomeSlider.js.orig",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/modules/HomeSlider2.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/utils/extends/_fullscreen.scss",
+		"/D/WebDev/Themeforest/1. Nolan/_HtmlPrototype/resources/js/libs/utils/_helpers.js",
+		"/D/WebDev/Themeforest/1. Nolan/_HtmlPrototype/resources/js/libs/_init.js",
+		"/D/WebDev/Themeforest/1. Nolan/_HtmlPrototype/resources/js/libs/utils/_slider.js",
+		"/C/Users/world/AppData/Local/Temp/7zO5779.tmp/_bulkloader.js",
+		"/D/WebDev/Themeforest/1. Nolan/_HtmlPrototype/resources/js/libs/modules/_project-page.js",
+		"/D/WebDev/Themeforest/1. Nolan/_HtmlPrototype/resources/js/libs/modules/_home-page.js",
+		"/D/WebDev/Themeforest/1. Nolan/_HtmlPrototype/resources/js/libs/modules/_menu.js",
+		"/D/WebDev/Themeforest/1. Nolan/5b. HtmlProto Ajax/resources/js/libs/custom.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/utils/mixins/_respond-to.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-picture.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/_menu-bkp.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/_menu-New anim.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/utils/extends/_btn.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/global/_typography.scss",
+		"/C/Users/world/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/article-usa.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-boxes-animated.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-boxes-static-bg.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/data/box-position.js",
+		"/D/WebDev/_js-plugins/greensock-js/src/uncompressed/TimelineLite.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/styles.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/_global/_metadata.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/layouts/lyt-default.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_b-boxes-bg.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/utils/mixins/_centering.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/pages/article-germany.hbs",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/article.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/templating/partials/b-background-item.hbs",
+		"/D/WebDev/tests/backbone/backbone todo/js/views/todo-view.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/universal.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/scss/modules/_rect-button.scss",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/modules/rect-button.js",
+		"/D/WebDev/_side_projects/bikelog 2/resources/js/app.js",
+		"/D/WebDev/tests/backbone/backbone todo/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"D:\\WebDev\\bitbucket\\jejin-novi-sajt\\app\\scripts",
+			"D:\\WebDev\\bitbucket\\jejin-novi-sajt\\app\\styles",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\templating",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\templating",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\templating",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\templating",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js\\classes",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js\\classes",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\js\\classes",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\resources\\scss",
+			"D:\\WebDev\\tests\\backbone\\backbone todo\\js1",
+			"D:\\WebDev\\_side_projects\\bikelog 2\\helpers",
+			"D:\\WebDev\\_side_projects\\Dario 2016\\resources\\js",
+			"D:\\WebDev\\_side_projects\\Dario 2016\\resources\\templates",
+			"D:\\WebDev\\_side_projects\\Dario 2016\\resources",
+			"D:\\WebDev\\_side_projects\\Dario 2016\\resources\\templates",
+			"D:\\WebDev\\_side_projects\\Dario 2016\\resources\\scss",
+			"D:\\WebDev\\_side_projects\\Dario 2016\\resources\\templates",
+			"D:\\WebDev\\_side_projects\\Dario 2016\\resources\\js",
+			"D:\\WebDev\\Themeforest\\2. Photo Portfolio\\4.b HTML ver2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"newer",
+			"concat",
+			"imagemi",
+			"build:j",
+			"uglify",
+			"build",
+			"moder",
+			"usemin",
+			"rev",
+			"arrow",
+			"arro",
+			"next-project-name",
+			"display",
+			"visibility",
+			"b-sharelinks",
+			"breakpointScroll = _text.offset().top - ",
+			"breakpointScroll",
+			"shado",
+			"box-s",
+			"paddi",
+			"fancybox-skin",
+			".fancybox-skin",
+			"project-title",
+			"{\n",
+			"waiting",
+			"project-title",
+			"is-scrolled-ontop",
+			"20px",
+			"3",
+			"handleOnScroll",
+			"gruntfile",
+			"bower",
+			">\n",
+			"propertyEnd",
+			"-",
+			"200px",
+			"news_",
+			"text",
+			"subtitle",
+			":{",
+			"5",
+			"$projeImgs",
+			"projeImgs",
+			"$projeImgs",
+			"projeImgs",
+			"projeImgs ",
+			"js-project-link",
+			"initHomePage",
+			"nav_link",
+			"home-info-section",
+			"titleOldTopPos",
+			"hasClassFixed",
+			"projectSingleMargins",
+			"titleOldTopPos",
+			"titleNewTopPos",
+			"projectSingleMargins",
+			"top",
+			"home-project-list",
+			"wrapp",
+			"project-single-intro",
+			"wrapper",
+			"can-a-woman",
+			"includ",
+			"project-img",
+			"project-title",
+			"is-page-",
+			"is-pa",
+			"is-page-loaded",
+			"is-",
+			"_menu",
+			"_nav",
+			"smartresize",
+			"debounce",
+			"js-project-link",
+			"wrapp",
+			"project-link",
+			".homepage",
+			"wrapper",
+			"autoprefixer",
+			"$('body')",
+			"$body",
+			"has-link-hover",
+			"<li",
+			"li",
+			"wrapper",
+			"h3",
+			"transitio",
+			"&textcolor",
+			"color",
+			"project-link",
+			"wrapper",
+			"logo",
+			"nav",
+			"section-title",
+			"margin-left: 30%;",
+			".logo",
+			"#fafafa;",
+			"background: #fafafa;",
+			".logo",
+			"font-fa",
+			"font-",
+			"respond-to",
+			"%boxcolor",
+			"preload_box",
+			"margin-bottom: 80px;",
+			"s-color-2",
+			"loading",
+			"is-page",
+			"header__menu-btn",
+			"padding",
+			"this",
+			"640",
+			"background",
+			"color-body-bg",
+			"z-index: 10",
+			"z-index",
+			"z-index: 10;",
+			"containerBg",
+			"is-bg-invisible",
+			"TweenMax",
+			"121c25",
+			"initAutoSlide",
+			"requestAnimationFrame",
+			"box--coords",
+			"|",
+			"this.autoSlide = false;",
+			"click",
+			"this"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$animation-duration",
+			"btn-anim",
+			"'window:resize'",
+			"'animation:completed'",
+			"'slide:change'",
+			"'",
+			"",
+			"$(",
+			"$",
+			"'",
+			"$mainPageCont",
+			"view-more",
+			"project-page",
+			"project-info",
+			"slidesIndex",
+			"č",
+			"ć",
+			"h2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/footer.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14367,
+								14367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/layouts/default.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1609,
+								1609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1234,
+								1234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_project-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1665,
+								1665
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1687.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_project-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1511,
+								1511
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_vars.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/WebDev/bitbucket/jejin2016/resources/templating/data/config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/templates/partials/singleproject.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/D/WebDev/bitbucket/jejin-novi-sajt/app/styles/_home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jejin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vars",
+				"app\\styles\\_vars.scss"
+			],
+			[
+				"header",
+				"app\\styles\\_header.scss"
+			],
+			[
+				"",
+				"untitled"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"defa",
+				"app\\templates\\layouts\\default.hbs"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"footer",
+				"app\\templates\\partials\\footer.hbs"
+			],
+			[
+				"projhbs",
+				"app\\templates\\partials\\singleproject.hbs"
+			],
+			[
+				"proje",
+				"app\\styles\\_project-page.scss"
+			],
+			[
+				"footerscss",
+				"app\\styles\\_footer.scss"
+			],
+			[
+				"defaul",
+				"app\\templates\\layouts\\default.hbs"
+			],
+			[
+				"main",
+				"app\\scripts\\main.js"
+			],
+			[
+				"headerscss",
+				"app\\styles\\_header.scss"
+			],
+			[
+				"newsscss",
+				"app\\styles\\_news.scss"
+			],
+			[
+				"fancybox",
+				"app\\styles\\_fancybox.scss"
+			],
+			[
+				"projehbs",
+				"app\\templates\\partials\\projectslist-side.hbs"
+			],
+			[
+				"home",
+				"app\\styles\\_home.scss"
+			],
+			[
+				"bioscss",
+				"app\\styles\\_bio.scss"
+			],
+			[
+				"var",
+				"app\\styles\\_vars.scss"
+			],
+			[
+				"news",
+				"app\\templates\\pages\\news.hbs"
+			],
+			[
+				"base",
+				"app\\styles\\_base.scss"
+			],
+			[
+				"data-",
+				"app\\data\\data-news.json"
+			],
+			[
+				"def",
+				"app\\templates\\layouts\\default.hbs"
+			],
+			[
+				"footerhbs",
+				"app\\templates\\partials\\footer.hbs"
+			],
+			[
+				"headerhbs",
+				"app\\templates\\partials\\header.hbs"
+			],
+			[
+				"defau",
+				"app\\templates\\layouts\\default.hbs"
+			],
+			[
+				"sing",
+				"app\\templates\\partials\\singleproject.hbs"
+			],
+			[
+				"singleproject",
+				"app\\templates\\partials\\singleproject.hbs"
+			],
+			[
+				"headehbs",
+				"app\\templates\\partials\\header.hbs"
+			],
+			[
+				"moder",
+				"bower_components\\modernizr\\modernizr.js"
+			],
+			[
+				"homescss",
+				"app\\styles\\_home.scss"
+			],
+			[
+				"index",
+				"app\\templates\\pages\\index.hbs"
+			],
+			[
+				"project-page",
+				"app\\styles\\_project-page.scss"
+			],
+			[
+				"mainjs",
+				"app\\scripts\\main.js"
+			],
+			[
+				"hea",
+				"app\\styles\\_header.scss"
+			],
+			[
+				"stati",
+				"scss\\modules\\_b-boxes-static.scss"
+			],
+			[
+				"menu",
+				"scss\\modules\\_menu.scss"
+			],
+			[
+				"inde",
+				"templating\\pages\\index.hbs"
+			],
+			[
+				"lay",
+				"templating\\layouts\\lyt-article.hbs"
+			],
+			[
+				"b-article",
+				"templating\\partials\\b-article.hbs"
+			],
+			[
+				"articl",
+				"templating\\pages\\article.hbs"
+			],
+			[
+				"b-homeslide",
+				"templating\\partials\\b-homeslide.hbs"
+			],
+			[
+				"article",
+				"js\\modules\\ArticleSlider.js"
+			],
+			[
+				"men",
+				"js\\modules\\Menu.js"
+			],
+			[
+				"helper",
+				"js\\classes\\helpers.js"
+			],
+			[
+				"stat",
+				"scss\\modules\\_b-boxes-static.scss"
+			],
+			[
+				"homr",
+				"js\\modules\\HomeSlider.js"
+			],
+			[
+				"b-boxes-static",
+				"templating\\partials\\b-boxes-static.hbs"
+			],
+			[
+				"heade",
+				"resources\\scss\\modules\\_header.scss"
+			],
+			[
+				"bas",
+				"resources\\scss\\global\\_base.scss"
+			],
+			[
+				"homes",
+				"resources\\scss\\modules\\_homeslider.scss"
+			],
+			[
+				"anim",
+				"resources\\js\\classes\\BoxAnim.js"
+			],
+			[
+				"boxa",
+				"resources\\js\\classes\\BoxAnim.js"
+			],
+			[
+				"homehbs",
+				"resources\\templating\\partials\\b-homeslide.hbs"
+			],
+			[
+				"artic",
+				"resources\\js\\modules\\ArticleSlider.js"
+			],
+			[
+				"pre",
+				"resources\\js\\utils\\preloader.js"
+			],
+			[
+				"fullscreen",
+				"resources\\scss\\utils\\extends\\_fullscreen.scss"
+			],
+			[
+				"staticscss",
+				"resources\\scss\\modules\\_b-boxes-static.scss"
+			],
+			[
+				"boxscss",
+				"resources\\scss\\modules\\_b-boxes-animated.scss"
+			],
+			[
+				"box",
+				"resources\\js\\classes\\BoxStatic.js"
+			],
+			[
+				"boxes",
+				"resources\\templating\\partials\\b-boxes-static.hbs"
+			],
+			[
+				"typo",
+				"resources\\scss\\global\\_typography.scss"
+			],
+			[
+				"btn",
+				"resources\\scss\\utils\\extends\\_btn.scss"
+			],
+			[
+				"ty",
+				"resources\\scss\\global\\_typography.scss"
+			],
+			[
+				"homesl",
+				"resources\\js\\modules\\HomeSlider.js"
+			],
+			[
+				"va",
+				"resources\\scss\\global\\_vars.scss"
+			],
+			[
+				"articlecss",
+				"resources\\scss\\modules\\_b-article.scss"
+			],
+			[
+				"arti",
+				"resources\\templating\\partials\\b-article.hbs"
+			],
+			[
+				"hoe",
+				"resources\\js\\modules\\HomeSlider.js"
+			],
+			[
+				"style",
+				"resources\\scss\\styles.scss"
+			],
+			[
+				"meta",
+				"resources\\templating\\partials\\_global\\_metadata.hbs"
+			],
+			[
+				"articlescss",
+				"resources\\scss\\modules\\_b-article.scss"
+			],
+			[
+				"box-scss",
+				"resources\\scss\\modules\\_b-boxes-static.scss"
+			],
+			[
+				"articlescs",
+				"resources\\scss\\modules\\_b-article.scss"
+			],
+			[
+				"articlscss",
+				"resources\\scss\\modules\\_b-article.scss"
+			],
+			[
+				"b-art",
+				"resources\\templating\\partials\\b-article.hbs"
+			],
+			[
+				"b-boxes-animated",
+				"resources\\templating\\partials\\b-boxes-animated.hbs"
+			],
+			[
+				"b-background-item",
+				"resources\\templating\\partials\\b-background-item.hbs"
+			],
+			[
+				"static",
+				"resources\\scss\\modules\\_b-boxes-static.scss"
+			],
+			[
+				"b-boxe",
+				"resources\\templating\\partials\\b-boxes-static.hbs"
+			],
+			[
+				"b-boxes-static-bg",
+				"resources\\templating\\partials\\b-boxes-static-bg.hbs"
+			],
+			[
+				"boxs",
+				"resources\\js\\classes\\BoxStatic.js"
+			],
+			[
+				"scrip",
+				"templating\\partials\\_global\\_scripts.hbs"
+			],
+			[
+				"scr",
+				"templating\\partials\\_global\\_scripts.hbs"
+			],
+			[
+				"scri",
+				"node_modules\\jquery\\src\\ajax\\script.js"
+			],
+			[
+				"sidebar",
+				"scss\\blocks\\_sidebar-nav.scss"
+			],
+			[
+				"sidebar-nav",
+				"scss\\blocks\\_sidebar-nav.scss"
+			],
+			[
+				"slider",
+				"js\\libs\\utils\\_slider.js"
+			],
+			[
+				"image",
+				"js\\libs\\modules\\_home-page.js"
+			],
+			[
+				"animat",
+				"scss\\animations.scss"
+			],
+			[
+				"indescss",
+				"scss\\pages\\_b-index-page.scss"
+			],
+			[
+				"indexscss",
+				"scss\\pages\\_b-index-page.scss"
+			],
+			[
+				"indexjs",
+				"templates\\data\\indexslider.json"
+			],
+			[
+				"abou",
+				"about.html"
+			],
+			[
+				"contact",
+				"contact.html"
+			],
+			[
+				"proj",
+				"project2.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"pro",
+				"project3.html"
+			],
+			[
+				"about",
+				"about2.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\WebDev\\_side_projects\\bikelog 2\\bikelog2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"tours": [
+		{
+			"location": "Long<br>Exposures",
+			"coords": "1 | 4",
+			"date":  "Ongoing",
+			"link": "article-longexp.html",
+			"link-text": "View",
+			"image":"img/resized/homeslider/bg1",
+			"box-style": "three"
+		},
+		{
+			"location": "Cuban Tour",
+			"coords": "2 | 4",
+			"date": "April<br>2016",
+			"link": "article-havana.html",
+			"link-text": "View",
+			"image":"img/resized/homeslider/bg3",
+			"prev-btn":"prev",
+			"next-btn":"next",
+			"box-style": "one"
+		},
+		{
+			"location": "Adriatic<br>Croatia",
+			"coords": "3 | 4",
+			"date": "July <br>2015",
+			"link": "article-croatia.html",
+			"link-text": "View",
+			"image":"img/resized/homeslider/bg2",
+			"prev-btn":"prev",
+			"next-btn":"next",
+			"box-style": "two"
+		},
+		{
+			"location": "Mental<br>blank",
+			"coords": "4 | 4",
+			"date": "Summer<br>2015",
+			"link": "article-bike.html",
+			"link-text": "View",
+			"image":"img/resized/homeslider/bike1",
+			"prev-btn":"prev",
+			"next-btn":"next",
+			"box-style": "two"
+		}
+	]
+}
