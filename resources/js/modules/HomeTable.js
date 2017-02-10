@@ -1,7 +1,6 @@
 /* global TweenMax */
 import * as _ from '../classes/helpers';
 import radio from '../utils/radio';
-import samples from '../../ajax/db';
 
 TweenMax.defaultEase = Expo.easeInOut;
 
@@ -17,6 +16,12 @@ export default class HomeTable {
 	constructor() {
 
 		this.table = _.q('.js-table');
+		this.parser = new UAParser();
+		this.majorVersions = [];
+		this.allTiles = [];
+
+		this.propertyEndPoint = "http://192.168.1.201:2222/home/window-prop/";
+		this.apiEndPoint = "http://192.168.1.201:2222/home/window-prop/";
 		this.currentSelected;
 		this.init();
 		
@@ -30,24 +35,37 @@ export default class HomeTable {
 		}); 
 	}
 
-	addTileDom(data, elID){
-		const UA = data.parse;
-		const browserShort = UA.browser_name.replace(/\s+/g,'-').toLowerCase();
-		const fnRemoveEl = this.removeEl.bind(this);
-
+	makeTile(data, elID){
+		console.log(data);
+		const browserNameShort = data.browser.name.replace(/\s+/g,'-').toLowerCase();
 		let tile = document.createElement('a');
-		_.addClass(tile, 'el-link');
-		_.addClass(tile, 'before-render');
+			_.addClass(tile, 'el-link');
 
-		tile.href = "#" + elID;
+			tile.href = "/element.html#" + elID;
 
-		tile.innerHTML = `<div class="element-wrapper is-${browserShort}">
-				<h4 class="el-name">${UA.browser_name}</h4>
-				<span class="el-version {{class}}">${UA.browser_version}</span>
-			</div>
-		</a>`
+			tile.innerHTML = `<div class="element-wrapper is-${browserNameShort}">
+					<h4 class="el-name">${data.browser.name}</h4>
+					<span class="el-version {{class}}">${data.browser.major}</span>
+				</div>
+				<div class="back">OPEN</div>
+			</a>`;
+			return tile;
+	}
+
+	addTileDom(data, elID){
+		if(typeof data.browser.name === 'undefined' || !data.browser.name.length || typeof data.browser.major === 'undefined'){
+			return;
+		}
+
+		const flag = data.browser.name + data.browser.major;
+		if(this.majorVersions.indexOf(flag) >=0){
+			return;
+		}
+
+		let tile = this.makeTile(data, elID)
+		
+		this.majorVersions.push(flag);
 		this.table.appendChild(tile);
-		setTimeout( ()=> {fnRemoveEl(tile)}, 10);
 	}
 
 	removeEl(tile){
@@ -56,33 +74,27 @@ export default class HomeTable {
 
 	parseSample(obj){
 
-		 _.getUserAgent(obj.userAgent, (data)=>{
-		 	console.log(obj.id);
-		 	this.addTileDom(JSON.parse(data), obj.id)
-		}); 
+		this.parser.setUA(obj.userAgent);
+	  const result = this.parser.getResult();
+	  this.addTileDom(result, obj.id);
+
 	}
 
-	parseAllData(data){
-		// const _parseSample = this.parseSample;
+	parseAllData(jsondata){
 
-		samples.forEach((obj) =>{
-			this.parseSample(obj);
+		const _parseSample = this.parseSample.bind(this);
+		const data = JSON.parse(jsondata);
+
+		const parser = new UAParser();
+		data.forEach((obj) => {
+			_parseSample(obj);
 		});
-	}
 
-	parseUserAgent(data){
-		console.log('Ovoe je response', data);
 	}
 
 	init() {
-		
-		// _.loadHTML('/ajax/db.json', this.parseData);
-		this.parseAllData();
-
-		const ueString = 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0';
-
-		// _.getUserAgent(ueString, this.parseUserAgent);
-
+		 
+		_.loadAJAX('http://192.168.1.201:2222/home/all-ids-and-agents', this.parseAllData.bind(this));
 	}
 
 

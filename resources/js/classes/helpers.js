@@ -70,7 +70,7 @@ export function debounce(func, wait, immediate) {
 }
 
 	
-export function loadHTML(url, callback) {
+export function loadAJAX(url, callback) {
 	var request = new XMLHttpRequest();
 	request.open('GET', url, true);
 

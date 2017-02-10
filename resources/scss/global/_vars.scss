@@ -16,14 +16,6 @@ $c-menu-text: #f8f3f3;
 $c-menu-text-light: #cdcdcd;
 
 
-//Article
-
-// Dark theme:
-// $c-pagination-color: rgba(255, 255, 255, 0.8);
-// $color-article-bg: rgb(17, 41, 66);
-// $color-article-text: #fff;
-
-// Light theme:
 $c-pagination-color: rgb(17, 41, 66);
 $color-body-bg: #fff;
 $color-article-bg: #fff;
@@ -34,6 +26,8 @@ $c-ch: #49a84b;
 $c-ff: #ec8840;
 $c-op: #e52a30;
 $c-sf: #2285d5;
+$c-fb: #191EE2;
+$c-mobile-safari: #63ABD5;
 
 
 // Typography
@@ -50,8 +44,8 @@ $small-3: 0.625rem; // 10px
 
 
 
-$font-base: 'Montserrat', Arial, sans-serif;
-$font-text: 'Playfair Display', serif;	
+$font-base:  Arial, sans-serif;
+$font-text: Arial, sans-serif;
 
 // ANimation
 $anim-duration: .35s;

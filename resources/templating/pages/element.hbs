@@ -1,0 +1,32 @@
+---
+title: Browser elements
+bodyclass: element-page
+---
+
+{{#extend "lyt-default"}}
+  {{#content "body"}}
+  <div class="b-element-content">
+    
+    <div class="bg"></div>
+    <div class="bg-overlay"></div>
+    <div class="browser-icon"></div>
+    <div class="content">
+      
+      <div class="window-prop-wrapper el-wrapper">
+        <ul class="js-window-props el-list"></ul>
+      </div>
+      <div class="doc-prop-wrapper el-wrapper">
+        <ul class="js-doc-props el-list"></ul>
+      </div> 
+    </div>
+
+    <div class="el-footer">
+      <button class="show-win-prop prop-btn"><span>Window Properties</span></button>
+      <button class="show-doc-prop prop-btn"><span>Document Properties</span></button>
+    </div>
+
+    <button class="close-props">close window</button>
+  </div>
+	{{/content}}
+{{/extend}}
+

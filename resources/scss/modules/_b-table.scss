@@ -4,7 +4,6 @@ $width: 100px;
 $height: 100px;
 
 .b-table {
-	position: absolute;
 
 	.el-link {
 		display: inline-block;
@@ -31,12 +30,22 @@ $height: 100px;
 		padding: 10px;
 		box-sizing: border-box;
 		border-radius: 10px;
+		transition: 0.35s;
+		transform-style: preserve-3d;
+		backface-visibility: hidden;
 
-		&.is-internet-explorer{
+		&.is-ie,
+		&.is-iemobile,
+		&.is-edge{
 			background-color: $c-ie;
 			border-color: $c-ie;
 		}
-		&.is-chrome{
+		&.is-facebook{
+			background-color: $c-fb;
+			border-color: $c-ie;
+		}
+		&.is-chrome,
+		&.is-android-browser{
 			background-color: $c-ch;
 			border-color: $c-ch;
 		}
@@ -44,29 +53,53 @@ $height: 100px;
 			background-color: $c-ff;
 			border-color: $c-ff;
 		}
-		&.is-op{
+		&.is-opera{
 			background-color: $c-op;
 			border-color: $c-op;
 		}
-		&.safari{
+		&.is-safari,
+		&.is-webkit{
 			background-color: $c-sf;
 			border-color: $c-sf;
 		}
 
+		&.is-mobile-safari{
+			background-color: $c-mobile-safari;
+			border-color: $c-mobile-safari;
+		}
+
+
+	}
+	.back {
+		  position: absolute;
+		  top: 0;
+	  	width: $width - 4px;
+			height: $height - 4px;
+		  left: 0;
+		  z-index: 800;
+		  background: #fff;//same as .panel.flip .front
+		  border-radius: 10px;
+		  border: 1px solid black;
+		  transition: 0.35s;
+		  transform: rotateY(-180deg);
+		  transform-style: preserve-3d;
+		  backface-visibility: hidden;
+		  text-align: center;
+    	line-height: 90px;
 	}
 
 	.el-name {
 		text-transform: uppercase;
 		position: absolute;
 		bottom: 10px;
-		font-size: $small-1;
+		font-size: $header-6;
 	}
 
 	.el-version {
 		position: absolute;
 		top: 10px;
 		right: 10px;
-		font-size: $small-2;
+		font-size: $small-1;
 
 		&.is-small {
 			font-size: $header-6;
@@ -75,5 +108,15 @@ $height: 100px;
 
 	.el-link {
 		color: inherit;
+		perspective: 1000px;
+
+		&:hover {
+			.element-wrapper{
+				transform: rotateY(180deg);
+			}
+			.back {
+				transform: rotateY(0deg);
+			}
+		};
 	}
 }

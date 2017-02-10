@@ -1,6 +1,6 @@
 {
   "generator-veams": {
-    "projectName": "bikelog 2",
+    "projectName": "hackathon",
     "projectAuthor": "Dario",
     "taskRunner": [
       "grunt"

@@ -1,0 +1,225 @@
+.b-element-content {
+  .bg{
+    background-image: url('../img/bg.jpg');
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background-size: cover;
+    z-index: -2;
+  }
+
+  .bg-overlay {
+    background: rgba(0,0,0,0.3);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+    opacity: 0;
+    transition: opacity 0.5s;
+
+    .is-win-visible &,
+    .is-doc-visible & {
+       opacity: 1;
+
+    }
+  }
+
+  .window-prop-wrapper {
+    .is-win-visible &{
+       display: block;
+    }
+  }
+
+  .doc-prop-wrapper {
+    .is-doc-visible &{
+       display: block;
+    }
+  }
+
+  .el-wrapper {
+    opacity: 0;
+    transition: opacity 0.5s 'ease-in' 0.5s;
+
+    .is-win-visible &,
+    .is-doc-visible & {
+       opacity: 1;
+
+    }
+
+  }
+
+  .el-list {
+    flex: 0 0 30%;
+    display: inline-block;
+    border: 20px solid #36a7c6;
+    background-color: #a5e9ff;
+    border-radius: 20px;
+    padding: 0 50px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 50px 0;
+
+    &>li {
+      padding: 5px 0;
+    }
+  }
+
+  .content {
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    transition-property: opacity, visibility;
+    transition-duration: 0.5s;
+    transition-delay: 0.5s;
+
+    .is-win-visible &,
+    .is-doc-visible & {
+       opacity: 1;
+       visibility: visible;
+    }
+  }
+
+  .prop-btn {
+    
+    background: none;
+    font-family: Arial;
+    position: relative;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    display: block;
+    width: 120px;
+    height: 140px;
+    background-size: contain;
+    cursor: pointer;
+    margin: 0 80px;
+
+    span {
+      position: absolute;
+      bottom: -50px; 
+      width: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 22px;
+    }
+
+  }
+
+  .el-footer {
+    position: absolute;
+
+    bottom: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+
+     opacity: 1;
+     visibility: visible;
+     transform: translateY(0);
+   
+    transform: translateY(0);
+    transition-property: opacity, visibility, transform;
+    transition-duration: 0.5s;
+
+    .is-win-visible &,
+    .is-doc-visible & {
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(20px);
+    }
+
+
+  }
+
+  .show-win-prop {
+    background-image: url("../img/window.png");
+  }
+  .show-doc-prop {
+    background-image: url("../img/document.png");
+  }
+
+
+  .close-props {
+    visibility: hidden;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: none;
+    color: #000;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+    border: 5px solid #36a7c6;
+    text-transform: uppercase;
+
+    .is-win-visible &,
+    .is-doc-visible & {
+      visibility: visible;
+    }
+
+    opacity: 0;
+      visibility: hidden;
+      transform: translateY(0);
+
+    .is-win-visible &,
+    .is-doc-visible & {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(20px);
+    }
+  }
+
+
+  .browser-icon {
+    position: absolute;
+    top: 50px;
+    left: 37%;
+    transform: translateX(-50%);
+    width: 500px;
+    height: 500px;
+    // background: url('../img/brow/chrome.png') no-repeat;
+    background-size: contain;
+    transform: scale(1);
+    transition-property: opacity, transform;
+    transition-duration: 0.35s;
+
+    .is-chrome &{
+      background: url('../img/brow/chrome.png') no-repeat;
+    }
+
+    .is-IE &{
+      background: url('../img/brow/IE.png') no-repeat;
+    }
+
+    .is-opera &{
+      background: url('../img/brow/opera.png') no-repeat;
+    }
+
+    .is-firefox &{
+      background: url('../img/brow/firefox.png') no-repeat;
+    }
+
+    .is-safari &{
+      background: url('../img/brow/safari.png') no-repeat;
+    }
+
+     .is-facebook &{
+      background: url('../img/brow/facebook.png') no-repeat;
+    }
+
+    .is-win-visible &,
+    .is-doc-visible & {
+      transform: scale(0.8);
+      opacity: 0;
+    }
+
+  }
+
+
+}

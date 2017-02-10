@@ -3,8 +3,6 @@
  * generator-veams v6.2.5
  * http://veams.org/
  *
- * Copyright (c) 2016 Sebastian Fitzner
- * Licensed under the MIT license.
  */
 
 'use strict';
